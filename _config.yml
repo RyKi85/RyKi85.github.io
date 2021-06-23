@@ -28,7 +28,7 @@ twitter_username: na
 github_username:  RyKi85
 
 # Build settings
-theme: jekyll-caymen
+theme: caymen
 plugins:
   - jekyll-feed
 
